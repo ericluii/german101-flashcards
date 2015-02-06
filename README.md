@@ -1,7 +1,7 @@
-span101-flashcards
+span101-flashcards/german101-flashcards
 ==================
 
-Designed to help me study spanish.  Cycles through vocab words to help memorization.  
+Designed to help me study spanish/german.  Cycles through vocab words to help memorization.  
 
 Run with:
 -python flashcards.py cards SE verbs
